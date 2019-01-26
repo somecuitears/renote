@@ -1,14 +1,15 @@
 {
-  "main.css": "/renote/static/css/main.a3902067.chunk.css",
-  "main.js": "/renote/static/js/main.a297775d.chunk.js",
-  "main.js.map": "/renote/static/js/main.a297775d.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/renote/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/renote/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/renote/static/css/main.b298a0a7.chunk.css",
+  "main.js": "/renote/static/js/main.862735db.chunk.js",
+  "main.js.map": "/renote/static/js/main.862735db.chunk.js.map",
+  "static/css/1.d9f98ecb.chunk.css": "/renote/static/css/1.d9f98ecb.chunk.css",
+  "static/js/1.1c491cda.chunk.js": "/renote/static/js/1.1c491cda.chunk.js",
+  "static/js/1.1c491cda.chunk.js.map": "/renote/static/js/1.1c491cda.chunk.js.map",
   "runtime~main.js": "/renote/static/js/runtime~main.36758d09.js",
   "runtime~main.js.map": "/renote/static/js/runtime~main.36758d09.js.map",
-  "static/media/logo.svg": "/renote/static/media/logo.5d5d9eef.svg",
-  "static/css/main.a3902067.chunk.css.map": "/renote/static/css/main.a3902067.chunk.css.map",
+  "static/css/main.b298a0a7.chunk.css.map": "/renote/static/css/main.b298a0a7.chunk.css.map",
+  "static/css/1.d9f98ecb.chunk.css.map": "/renote/static/css/1.d9f98ecb.chunk.css.map",
   "index.html": "/renote/index.html",
-  "precache-manifest.3110c11d8dd2fe0b9f149d612ece1f59.js": "/renote/precache-manifest.3110c11d8dd2fe0b9f149d612ece1f59.js",
+  "precache-manifest.9c6f607a2ddeff450e681c9a69bb89aa.js": "/renote/precache-manifest.9c6f607a2ddeff450e681c9a69bb89aa.js",
   "service-worker.js": "/renote/service-worker.js"
 }
