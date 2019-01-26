@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.notelist{
+  width: 30%;
+  float: left;
+  background-color: aliceblue;
+  text-align: left;
+}
+
+.notelist .note{
+  margin: 5px 5px 5px 15px;
+  background-color: cadetblue;
+}
